@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    background-color: blue;
+}
+
+#ftl{
+    text-align: center;
+    background-color: darkgray;
+    text-decoration-color: red;
+    border: 5px solid black;
+    
+}
+
+#one{
+    
+    color:rgb(0, 0, 0);
+    border-radius: 20;
+    border-color: blue;
+    
+    
+
+}
+
+#br{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: seagreen;
+    border: 5px solid black;
+    
+}
+
+#outside{
+    background-color: sienna;
+    border: 5px solid black;
+}
+
+#console{
+    background-color: slateblue;
+    color: springgreen;
+    border: 5px solid black;
+}
+
+#di{
+    background-color: steelblue;
+    border: 5px solid black;
+
+}
+
+#huh{
+    background-color: tan;
+    border: 5px solid black;
+}
+
+#go{
+    background-color: tan;
+
+}
+
+
+#about{
+    background-color:springgreen;
+    border: 5px solid black;
+}
+
